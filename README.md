@@ -45,7 +45,7 @@ Feel free to message me on Discord for more info (@edocsil47).
 - Nihilego *(non-shiny)*
 - Xurkitree *(non-shiny)*
 - Kartana *(non-shiny)*
-- 🆕 Wiglett *(new dex entry)*
+- 🆕 Wiglett
 
 \* Shiny forms preferred but not required.
 #### Search String (Low Priority only):
