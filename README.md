@@ -33,7 +33,7 @@ Feel free to message me on Discord for more info (@edocsil47).
 !traded&@spac,@roa,646,672,800,803,805,905
 ```
 ### Low Priority
-- 🪞✨ Cranidos
+- ✨ Cranidos
 - ✨✝️ Terrakion\* *(Sacred Sword only)*
 - ✨✝️ Reshiram\* *(Fusion Flare only)*
 - Nihilego *(non-shiny)*
