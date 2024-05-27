@@ -14,14 +14,17 @@ Feel free to message me on Discord for more info (@edocsil47).
 [Jump to For Trade](#for-trade)
 ## Looking For
 #### Search String (All)
+<!---
+!traded&((shiny&408),@roa,@spac,(639&@special),@fusion flare,646,800,803,805,905,(!shiny&(636,672,780,793,796,798,900,935,960,996)))
+-->
 ```
-!traded&@roa,@spac,@fusion flare,646,672,800,803,805,905,!shiny,639,shiny&@roa,@spac,@fusion flare,646,672,800,803,805,905,!shiny,639,408&@roa,@spac,@fusion flare,646,672,800,803,805,905,!shiny,@special,shiny&@roa,@spac,@fusion flare,646,672,800,803,805,905,!shiny,@special,408&@roa,@spac,@fusion flare,646,672,800,803,805,905,636,780,793,796,798,900,935,960,996,639,shiny&@roa,@spac,@fusion flare,646,672,800,803,805,905,636,780,793,796,798,900,935,960,996,639,408&@roa,@spac,@fusion flare,646,672,800,803,805,905,636,780,793,796,798,900,935,960,996,@special,shiny&@roa,@spac,@fusion flare,646,672,800,803,805,905,636,780,793,796,798,900,935,960,996,@special,408
+!traded&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,639,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,639,408&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,@special,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,@special,408&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,639,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,639,408&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,@special,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,@special,408
 ```
 ### High Priority
 - ✨✝️ Dialga-O\* *(Roar of Time only)*
 - ✨✝️ Palkia-O\* *(Spacial Rend only)*
 - ✨ Kyurem\*
-- 🆕 Skiddo *(can’t mirror trade)*
+- 🆕 Skiddo *(non-shiny)*
 - ✨ Necrozma\*
 - 🪞 Poipole
 - 🪞 Stakataka
@@ -29,8 +32,11 @@ Feel free to message me on Discord for more info (@edocsil47).
 
 \* Shiny forms preferred but not required.
 #### Search String (High Priority only):
+<!---
+!traded&(@roa,@spac,646,(!shiny&672),800,803,805,905)
+-->
 ```
-!traded&@spac,@roa,646,672,800,803,805,905
+!traded&@roa,@spac,646,800,803,805,905,!shiny&@roa,@spac,646,800,803,805,905,672
 ```
 ### Low Priority
 - ✨ Cranidos
@@ -43,8 +49,11 @@ Feel free to message me on Discord for more info (@edocsil47).
 
 \* Shiny forms preferred but not required.
 #### Search String (Low Priority only):
+<!---
+!traded&((shiny&408),(639&@special),@fusion flare,(!shiny&(793,796,798,960)))
+-->
 ```
-!traded&@fusion flare,!shiny,639,408&@fusion flare,!shiny,639,shiny&@fusion flare,!shiny,@special,408&@fusion flare,!shiny,@special,shiny&@fusion flare,793,796,798,960,639,408&@fusion flare,793,796,798,960,639,shiny&@fusion flare,793,796,798,960,@special,408&@fusion flare,793,796,798,960,@special,shiny
+!traded&@fusion flare,!shiny,639,shiny&@fusion flare,!shiny,639,408&@fusion flare,!shiny,@special,shiny&@fusion flare,!shiny,@special,408&@fusion flare,793,796,798,960,639,shiny&@fusion flare,793,796,798,960,639,408&@fusion flare,793,796,798,960,@special,shiny&@fusion flare,793,796,798,960,@special,408
 ```
 ### Non-Special
 - Larvesta
