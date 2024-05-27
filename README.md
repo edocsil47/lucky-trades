@@ -28,7 +28,6 @@ Feel free to message me on Discord for more info (@edocsil47).
 - Enamorus *(can't mirror trade)*
 
 \* Shiny forms preferred but not required.
-
 #### Search String (High Priority only):
 ```
 !traded&@spac,@roa,646,672,800,803,805,905
@@ -43,7 +42,6 @@ Feel free to message me on Discord for more info (@edocsil47).
 - 🆕 Wiglett *(new dex entry)*
 
 \* Shiny forms preferred but not required.
-
 #### Search String (Low Priority only):
 ```
 !traded&@fusion flare,!shiny,639,408&@fusion flare,!shiny,639,shiny&@fusion flare,!shiny,@special,408&@fusion flare,!shiny,@special,shiny&@fusion flare,793,796,798,960,639,408&@fusion flare,793,796,798,960,639,shiny&@fusion flare,793,796,798,960,@special,408&@fusion flare,793,796,798,960,@special,shiny
@@ -54,11 +52,11 @@ Feel free to message me on Discord for more info (@edocsil47).
 - Kleavor *(non-shiny)*
 - Charcadet
 - Frigibax
-
 #### Search String (Non-Special only):
 ```
 !traded&!shiny&636,780,900,935,996
 ```
+[Back to top](#looking-for)
 ## For Trade
 ### Legendary, Ultra Beasts, etc.
 I have most non-shiny legendary Pokemon available for trade. Available shiny versions are listed below:
