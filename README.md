@@ -15,7 +15,7 @@ Feel free to message me on Discord for more info (@edocsil47).
 ## Looking For
 #### Search String (All)
 <!---
-!traded&((shiny&408,747),@roa,@spac,(639&@special),@fusion flare,646,800,803,805,905,(!shiny&(636,672,780,793,796,798,900,935,960,996)))
+!traded&((shiny&(56,408,747)),@roa,@spac,(639&@special),@fusion flare,646,800,803,805,905,(!shiny&(636,672,780,793,796,798,900,935,960,996)))
 -->
 ```
 !traded&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,639,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,639,408,747&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,@special,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,@special,408,747&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,639,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,639,408,747&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,@special,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,@special,408,747
@@ -39,6 +39,7 @@ Feel free to message me on Discord for more info (@edocsil47).
 !traded&@roa,@spac,646,800,803,805,905,!shiny&@roa,@spac,646,800,803,805,905,672
 ```
 ### Low Priority
+- ✨ Mankey
 - ✨ Cranidos
 - ✨✝️ Terrakion\* *(Sacred Sword only)*
 - ✨✝️ Reshiram\* *(Fusion Flare only)*
@@ -51,10 +52,10 @@ Feel free to message me on Discord for more info (@edocsil47).
 \* Shiny forms preferred but not required.
 #### Search String (Low Priority only):
 <!---
-!traded&((shiny&408,747),(639&@special),@fusion flare,(!shiny&(793,796,798,960)))
+!traded&((shiny&(56,408,747)),(639&@special),@fusion flare,(!shiny&(793,796,798,960)))
 -->
 ```
-!traded&@fusion flare,!shiny,639,shiny&@fusion flare,!shiny,639,408,747&@fusion flare,!shiny,@special,shiny&@fusion flare,!shiny,@special,408,747&@fusion flare,793,796,798,960,639,shiny&@fusion flare,793,796,798,960,639,408,747&@fusion flare,793,796,798,960,@special,shiny&@fusion flare,793,796,798,960,@special,408,747
+!traded&@fusion flare,!shiny,639,shiny&@fusion flare,!shiny,639,56,408,747&@fusion flare,!shiny,@special,shiny&@fusion flare,!shiny,@special,56,408,747&@fusion flare,793,796,798,960,639,shiny&@fusion flare,793,796,798,960,639,56,408,747&@fusion flare,793,796,798,960,@special,shiny&@fusion flare,793,796,798,960,@special,56,408,747
 ```
 ### Non-Special
 - Larvesta
