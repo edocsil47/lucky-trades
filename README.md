@@ -15,10 +15,10 @@ Feel free to message me on Discord for more info (@edocsil47).
 ## Looking For
 #### Search String (All)
 <!---
-!traded&((shiny&(56,408,747)),@roa,@spac,(639&@special),@fusion flare,646,800,803,805,905,(!shiny&(636,672,780,793,796,798,900,935,960,996)))
+!traded&((shiny&(56,408,747)),@roa,@spac,(639&@special),@fusion flare,646,800,803,805,905,(!shiny&(636,672,780,793,796,798,900,935,996)))
 -->
 ```
-!traded&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,639,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,639,408,747&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,@special,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,@special,408,747&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,639,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,639,408,747&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,@special,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,960,996,@special,408,747
+!traded&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,639,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,639,408,747&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,@special,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,!shiny,@special,408,747&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,996,639,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,996,639,408,747&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,996,@special,shiny&@roa,@spac,@fusion flare,646,800,803,805,905,636,672,780,793,796,798,900,935,996,@special,408,747
 ```
 ### High Priority
 - ✨✝️ Dialga-O\* *(Roar of Time only)*
@@ -47,15 +47,14 @@ Feel free to message me on Discord for more info (@edocsil47).
 - Nihilego *(non-shiny)*
 - Xurkitree *(non-shiny)*
 - Kartana *(non-shiny)*
-- 🆕 Wiglett
 
 \* Shiny forms preferred but not required.
 #### Search String (Low Priority only):
 <!---
-!traded&((shiny&(56,408,747)),(639&@special),@fusion flare,(!shiny&(793,796,798,960)))
+!traded&((shiny&(56,408,747)),(639&@special),@fusion flare,(!shiny&(793,796,798)))
 -->
 ```
-!traded&@fusion flare,!shiny,639,shiny&@fusion flare,!shiny,639,56,408,747&@fusion flare,!shiny,@special,shiny&@fusion flare,!shiny,@special,56,408,747&@fusion flare,793,796,798,960,639,shiny&@fusion flare,793,796,798,960,639,56,408,747&@fusion flare,793,796,798,960,@special,shiny&@fusion flare,793,796,798,960,@special,56,408,747
+!traded&@fusion flare,!shiny,639,shiny&@fusion flare,!shiny,639,56,408,747&@fusion flare,!shiny,@special,shiny&@fusion flare,!shiny,@special,56,408,747&@fusion flare,793,796,798,639,shiny&@fusion flare,793,796,798,639,56,408,747&@fusion flare,793,796,798,@special,shiny&@fusion flare,793,796,798,@special,56,408,747
 ```
 ### Non-Special
 - Larvesta
@@ -134,6 +133,7 @@ I do not always keep hemisphere regionals that have been available in free, glob
 - ✨ Durant *(have shiny)*
 - Hawlucha
 - Oricorio-Pa'u
+- Wiglett
 ### Event Pokemon
 - Halloween Charmander
 - Sunglasses Squirtle
