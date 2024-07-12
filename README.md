@@ -15,10 +15,10 @@ Feel free to message me on Discord for more info (@edocsil47).
 ## Looking For
 #### Search String (All)
 <!---
-!traded&((shiny&(56,408,747)),@roa,@spac,(639&@special),@fusion flare,646,800,805,905,(!shiny&(636,672,780,793,796,798,900,935,996)))
+!traded&((shiny&(56,408,747)),@roa,@spac,(639&@special),@fusion flare,646,800,805,905,(!shiny&(636,672,780,793,796,798,900,996)))
 -->
 ```
-!traded&@roa,@spac,@fusion flare,646,800,805,905,!shiny,639,shiny&@roa,@spac,@fusion flare,646,800,805,905,!shiny,639,408,747&@roa,@spac,@fusion flare,646,800,805,905,!shiny,@special,shiny&@roa,@spac,@fusion flare,646,800,805,905,!shiny,@special,408,747&@roa,@spac,@fusion flare,646,800,805,905,636,672,780,793,796,798,900,935,996,639,shiny&@roa,@spac,@fusion flare,646,800,805,905,636,672,780,793,796,798,900,935,996,639,408,747&@roa,@spac,@fusion flare,646,800,805,905,636,672,780,793,796,798,900,935,996,@special,shiny&@roa,@spac,@fusion flare,646,800,805,905,636,672,780,793,796,798,900,935,996,@special,408,747
+!traded&@roa,@spac,@fusion flare,646,800,805,905,!shiny,639,shiny&@roa,@spac,@fusion flare,646,800,805,905,!shiny,639,408,747&@roa,@spac,@fusion flare,646,800,805,905,!shiny,@special,shiny&@roa,@spac,@fusion flare,646,800,805,905,!shiny,@special,408,747&@roa,@spac,@fusion flare,646,800,805,905,636,672,780,793,796,798,900,996,639,shiny&@roa,@spac,@fusion flare,646,800,805,905,636,672,780,793,796,798,900,996,639,408,747&@roa,@spac,@fusion flare,646,800,805,905,636,672,780,793,796,798,900,996,@special,shiny&@roa,@spac,@fusion flare,646,800,805,905,636,672,780,793,796,798,900,996,@special,408,747
 ```
 ### High Priority
 - ✨✝️ Dialga-O\* *(Roar of Time only)*
@@ -32,7 +32,7 @@ Feel free to message me on Discord for more info (@edocsil47).
 \* Shiny forms preferred but not required.
 #### Search String (High Priority only):
 <!---
-!traded&(@roa,@spac,646,(!shiny&672),800,803,805,905)
+!traded&(@roa,@spac,646,(!shiny&672),800,805,905)
 -->
 ```
 !traded&@roa,@spac,646,800,805,905,!shiny&@roa,@spac,646,800,805,905,672
@@ -59,11 +59,10 @@ Feel free to message me on Discord for more info (@edocsil47).
 - Larvesta
 - Drampa *(non-shiny)*
 - Kleavor *(non-shiny)*
-- Charcadet
 - Frigibax
 #### Search String (Non-Special only):
 ```
-!traded&!shiny&636,780,900,935,996
+!traded&!shiny&636,780,900,996
 ```
 [Back to top](#looking-for)
 ## For Trade
