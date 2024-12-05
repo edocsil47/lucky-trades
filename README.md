@@ -2,6 +2,7 @@
 **Hello, welcome to my trade list.**
 
 Feel free to message me on Discord for more info (@edocsil47).
+
 ### Notes
 - I am generally not interested in making expensive trades (e.g., unregistered shiny and/or legendary Pokemon).
 - Pokemon within sections are sorted by national dex order, not by how much I want them.
@@ -12,6 +13,7 @@ Feel free to message me on Discord for more info (@edocsil47).
   - 🪞 = Mirror trade only
 
 [Jump to For Trade](#for-trade)
+
 ## Looking For
 
 ### High Priority
@@ -44,7 +46,9 @@ Feel free to message me on Discord for more info (@edocsil47).
 - Kleavor *(non-shiny)*
 
 [Back to top](#looking-for)
+
 ## For Trade
+
 ### Legendary, Ultra Beasts, etc.
 I have most non-shiny legendary Pokemon available for trade. Available shiny versions are listed below:
 - ✨✝️ Zapdos *(with or without Thunder Shock)*
@@ -76,8 +80,10 @@ I have most non-shiny legendary Pokemon available for trade. Available shiny ver
 - ✨✝️ Yveltal *(with or without Oblivion Wing)*
 - ✨ Tapu Bulu *(none with Nature's Madness)*
 - ✨ Meltan
+
 #### Galarian Birds
 🪞 I have a Zapdos available to mirror trade.
+
 ### Regionals
 I do not always keep hemisphere regionals that have been available in free, global events. Ask me if there is something specific you want that is not listed below:
 - Farfetch'd
@@ -111,6 +117,7 @@ I do not always keep hemisphere regionals that have been available in free, glob
 - Hawlucha
 - Oricorio-Pa'u
 - Wiglett
+
 ### Event Pokemon
 - Halloween Charmander
 - Sunglasses Squirtle
@@ -142,8 +149,10 @@ I do not always keep hemisphere regionals that have been available in free, glob
 - Rotom
 - Rotom-Frost
 - Rotom-Wash
+
 ### Special Moves
 At some point I stopped keeping spare Community Day Pokemon and other event moves, but feel free to ask if I have something specific.
+
 ### Other Shiny or Miscellaneous Pokemon
 Ask for specifics.
 
