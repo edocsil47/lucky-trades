@@ -13,15 +13,9 @@ Feel free to message me on Discord for more info (@edocsil47).
 
 [Jump to For Trade](#for-trade)
 ## Looking For
-<!---
-#### Search String (All)
-!traded&((shiny&(56,408,747)),@roa,@spac,487,(639&@special),646,800,805,905,(!shiny&(636,672,780,793,796,874,900,885)))
-```
-!traded&@roa,@spac,487,646,800,805,905,!shiny,639,shiny&@roa,@spac,487,646,800,805,905,!shiny,639,56,408,747&@roa,@spac,487,646,800,805,905,!shiny,@special,shiny&@roa,@spac,487,646,800,805,905,!shiny,@special,56,408,747&@roa,@spac,487,646,800,805,905,636,672,780,793,796,874,900,885,639,shiny&@roa,@spac,487,646,800,805,905,636,672,780,793,796,874,900,885,639,56,408,747&@roa,@spac,487,646,800,805,905,636,672,780,793,796,874,900,885,@special,shiny&@roa,@spac,487,646,800,805,905,636,672,780,793,796,874,900,885,@special,56,408,747
-```
--->
+
 ### High Priority
-- ✨✝️ Dialga-O\* *(Roar of Time only)*
+- ✨✝️ Dialga-O\* *(Roar of Time only, can't mirror trade)*
 - ✨✝️ Palkia-O\* *(Spacial Rend only)*
 - ✨ Kyurem\*
 - 🆕 Skiddo *(non-shiny)*
@@ -31,16 +25,8 @@ Feel free to message me on Discord for more info (@edocsil47).
 - Enamorus *(can't mirror trade)*
 
 \* Shiny forms preferred but not required.
-<!---
-#### Search String (High Priority only):
-!traded&(@roa,@spac,646,(!shiny&672),800,805,874,905)
-```
-!traded&@roa,@spac,646,800,805,874,905,!shiny&@roa,@spac,646,800,805,874,905,672
-```
--->
+
 ### Low Priority
-- ✨ Mankey
-- ✨ Cranidos
 - ✨✝️ Giratina-O\*
 - ✨✝️ Terrakion\* *(Sacred Sword only)*
 - ✨ Mareanie
@@ -48,23 +34,15 @@ Feel free to message me on Discord for more info (@edocsil47).
 - Xurkitree *(non-shiny)*
 
 \* Shiny forms preferred but not required.
-<!---
-#### Search String (Low Priority only):
-!traded&((shiny&(56,408,747)),487,(639&@special),(!shiny&(793,796)))
-```
-!traded&487,!shiny,639,shiny&487,!shiny,639,56,408,747&487,!shiny,@special,shiny&487,!shiny,@special,56,408,747&487,793,796,639,shiny&487,793,796,639,56,408,747&487,793,796,@special,shiny&487,793,796,@special,56,408,747
-```
--->
+
 ### Non-Special
-- Larvesta
-- Kleavor *(non-shiny)*
+- Galarian Corsola *(non-shiny)*
+- Larvesta *(non-shiny)*
+- Toxel *(non-shiny)*
+- Sinistea *(phony)*
 - Dreepy
-<!---
-#### Search String (Non-Special only):
-```
-!traded&!shiny&636,780,900,885
-```
---->
+- Kleavor *(non-shiny)*
+
 [Back to top](#looking-for)
 ## For Trade
 ### Legendary, Ultra Beasts, etc.
