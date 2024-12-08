@@ -17,12 +17,14 @@ Feel free to message me on Discord for more info (@edocsil47).
 ## Looking For
 
 ### High Priority
+- Gmax Lapras
 - ✨✝️ Dialga-O\* *(Roar of Time only, can't mirror trade)*
 - ✨✝️ Palkia-O\* *(Spacial Rend only)*
 - ✨ Kyurem\*
 - 🆕 Skiddo *(non-shiny)*
 - ✨ Necrozma\*
-- 🪞 Stakataka
+- Stakataka
+- ✨ Gmax Toxtricity
 - 🆕 Stonjourner
 - Enamorus *(can't mirror trade)*
 
