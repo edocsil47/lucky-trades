@@ -22,6 +22,7 @@ Feel free to message me on Discord for more info (@edocsil47).
 - ✨✝️ Palkia-O\* *(Spacial Rend only)*
 - ✨ Kyurem\*
 - 🆕 Skiddo *(non-shiny)*
+- 🆕 Mudbray *(non-shiny)*
 - ✨ Necrozma\*
 - Stakataka
 - ✨ Gmax Toxtricity
@@ -34,7 +35,7 @@ Feel free to message me on Discord for more info (@edocsil47).
 - ✨✝️ Giratina-O\*
 - ✨✝️ Terrakion\* *(Sacred Sword only)*
 - ✨ Mareanie
-- Nihilego *(non-shiny)*
+- ✨ Nihilego\*
 - Xurkitree *(non-shiny)*
 
 \* Shiny forms preferred but not required.
@@ -145,12 +146,14 @@ I do not always keep hemisphere regionals that have been available in free, glob
 - ✨ Cowboy Snorlax *(shiny only)*
 - ✝️ Armored Mewtwo *(with or without Psystrike)*
 - Unown-!
+- Unown-?
 - Meloetta Hat Galarian Zigzagoon
 - ✝️ Meloetta Hat Gardevoir
 - Halloween Drifblim
 - Rotom
-- Rotom-Frost
+- Rotom-Heat
 - Rotom-Wash
+- Rotom-Frost
 
 ### Special Moves
 At some point I stopped keeping spare Community Day Pokemon and other event moves, but feel free to ask if I have something specific.
