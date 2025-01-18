@@ -20,12 +20,12 @@ Feel free to message me on Discord for more info (@edocsil47).
 - Gmax Lapras
 - ✨✝️ Dialga-O\* *(Roar of Time only, can't mirror trade)*
 - ✨✝️ Palkia-O\* *(Spacial Rend only)*
-- ✨ Kyurem\*
+- ✨ Kyurem\* *(Glaciate preferred)*
 - 🆕 Skiddo *(non-shiny)*
 - 🆕 Mudbray *(non-shiny)*
 - ✨ Necrozma\*
 - Stakataka
-- ✨ Gmax Toxtricity
+- Gmax Toxtricity
 - 🆕 Stonjourner
 - Enamorus *(can't mirror trade)*
 
@@ -47,6 +47,7 @@ Feel free to message me on Discord for more info (@edocsil47).
 - Sinistea *(phony)*
 - Dreepy
 - Kleavor *(non-shiny)*
+- Shroodle
 
 [Back to top](#looking-for)
 
