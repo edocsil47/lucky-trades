@@ -31,6 +31,7 @@ Feel free to message me on Discord for more info (@edocsil47).
 - ✨✝️ Palkia-O\* *(Spacial Rend only)*
 - ✨✝️ Terrakion\* *(Sacred Sword only)*
 - ✨ Mareanie
+- 🆕 Dhelmise
 - ✨ Nihilego\*
 - Xurkitree *(non-shiny)*
 - ✨ Necrozma\*
