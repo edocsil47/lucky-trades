@@ -17,26 +17,24 @@ Feel free to message me on Discord for more info (@edocsil47).
 ## Looking For
 
 ### High Priority
-- Dmax Moltres
-- ✨✝️ Dialga-O\* *(Roar of Time only, can't mirror trade)*
-- ✨✝️ Palkia-O\* *(Spacial Rend only)*
 - ✨ Kyurem\* *(Glaciate preferred)*
 - 🆕 Skiddo *(non-shiny)*
 - 🆕 Mudbray *(non-shiny)*
-- Stakataka
 - 🆕 Stonjourner
-- Enamorus *(can't mirror trade)*
 
 \* Shiny forms preferred but not required.
 
 ### Low Priority
 - Gmax Lapras
-- ✨✝️ Giratina-O\*
+- Dmax Moltres
+- ✨✝️ Dialga-O\* *(Roar of Time only, can't mirror trade)*
+- ✨✝️ Palkia-O\* *(Spacial Rend only)*
 - ✨✝️ Terrakion\* *(Sacred Sword only)*
 - ✨ Mareanie
 - ✨ Nihilego\*
 - Xurkitree *(non-shiny)*
 - ✨ Necrozma\*
+- Enamorus
 
 \* Shiny forms preferred but not required.
 
