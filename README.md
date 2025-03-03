@@ -11,13 +11,14 @@ Feel free to message me on Discord for more info (@edocsil47).
   - ✝️ = Special move
   - 🆕 = New dex entry
   - 🪞 = Mirror trade only
+  - 🍄 = Dynamax/Gigantamax
 
 [Jump to For Trade](#for-trade)
 
 ## Looking For
 
 ### High Priority
-- ✨ Kyurem\* *(Glaciate preferred)*
+- 🪞✨ Kyurem (White Background)
 - 🆕 Skiddo *(non-shiny)*
 - 🆕 Mudbray *(non-shiny)*
 - 🆕 Stonjourner
@@ -25,11 +26,12 @@ Feel free to message me on Discord for more info (@edocsil47).
 \* Shiny forms preferred but not required.
 
 ### Low Priority
-- Gmax Lapras
-- Dmax Moltres
+- 🍄 Gmax Lapras
+- 🍄 Dmax Moltres
 - ✨✝️ Dialga-O\* *(Roar of Time only, can't mirror trade)*
 - ✨✝️ Palkia-O\* *(Spacial Rend only)*
 - ✨✝️ Terrakion\* *(Sacred Sword only)*
+- ✨ Kyurem\* *(Glaciate preferred)*
 - ✨ Mareanie
 - 🆕 Dhelmise
 - ✨ Nihilego\*
