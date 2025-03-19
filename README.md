@@ -43,7 +43,6 @@ Feel free to message me on Discord for more info (@edocsil47).
 
 ### Non-Special
 - Larvesta *(non-shiny)*
-- Toxel *(non-shiny)*
 - Sinistea *(phony)*
 - Dreepy
 - Kleavor *(non-shiny)*
